@@ -24,12 +24,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tecnicoviola&" alt="tecnicoviola" /></p>
 
 # 📊 GitHub Stats:
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VIOLA&theme=dark"  width="1200">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VIOLA&theme=dark"  width="900">
 
 <table>
   <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunny2788&theme=dark&utcOffset=8" width="700"></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VIOLA&theme=dark" width="700"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunny2788&theme=dark&utcOffset=8" width="400"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VIOLA&theme=dark" width="400"></td>
   </tr>
 </table>
 
