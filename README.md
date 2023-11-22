@@ -28,12 +28,12 @@
 
 
 # 📊 GitHub Stats:
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VIOLA&theme=dark"  width="900">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tecnicoviola&theme=tokyonight"  width="900">
 
 <table>
   <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunny2788&theme=dark&utcOffset=8" width="400"></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vsunny2788A&theme=dark" width="400"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tecnicoviola&theme=tokyonight&utcOffset=8" width="400"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tecnicoviola&theme=tokyonight" width="400"></td>
   </tr>
 </table>
 
