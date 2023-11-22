@@ -1,35 +1,39 @@
-<h1 align="center">Hi 👋, I'm viola</h1>
-<h3 align="center">Fervent dedication to coding and development</h3>
+<!-- Start of README.md -->
+
+# 💫 About Me:
+• An undergraduate pursuing Computer Science and Engineering. <br/>
+• My interests: Photography, Graphic Designing. <br/>  
+
+# 🤔 Why am I here?
+• My GitHub repository serves as a meticulously kept journal, offering an open resource for others. <br/>
+• Here, I showcase my work and build a strong developer portfolio. It also serves a great role in helping me connect with other collaborators.<br/>
+• GitHub is my way of giving back and I shall soon be contributing to projects that matter to me and also support causes I'm passionate about.
+
+# 👨🏻‍💻 Tech Stack:
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60"/></a>
+<a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/></a> 
+<a href="https://dev.java/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/></a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
+  <img src="resources/Tech Stack/Kotlin.jpg" alt="cplusplus" width="60" height="60" /></a>
+<a href="https://developer.android.com/studio/intro" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="60" height="60" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/></a>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tecnicoviola&label=Profile%20views&color=0e75b6&style=flat" alt="tecnicoviola" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Data structure and Algorithm**
-
-- ⚡ Fun fact **Ain't this funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tecnicoviola&show_icons=true&locale=en&layout=compact" alt="tecnicoviola" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tecnicoviola&show_icons=true&locale=en" alt="tecnicoviola" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tecnicoviola&" alt="tecnicoviola" /></p>
 
 # 📊 GitHub Stats:
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VIOLA&theme=dark"  width="900">
 
 <table>
   <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VIOLA&theme=dark&utcOffset=8" width="400"></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VIOLA&theme=dark" width="400"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunny2788&theme=dark&utcOffset=8" width="400"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vsunny2788A&theme=dark" width="400"></td>
   </tr>
 </table>
 
