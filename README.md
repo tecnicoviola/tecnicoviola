@@ -22,3 +22,18 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tecnicoviola&show_icons=true&locale=en" alt="tecnicoviola" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tecnicoviola&" alt="tecnicoviola" /></p>
+
+# 📊 GitHub Stats:
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VIOLA&theme=dark"  width="1200">
+
+<table>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunny2788&theme=dark&utcOffset=8" width="700"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VIOLA&theme=dark" width="700"></td>
+  </tr>
+</table>
+
+
+![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
+
+<!-- End of README.md -->
