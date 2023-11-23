@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 • An undergraduate pursuing Computer Science and Engineering. <br/>
-• My interests: Photography,modelling, Graphic Designing. <br/>  
+• My interests:Development, Graphic Designing, Modelling. <br/>  
 
 # 🤔 Why am I here?
 • My GitHub repository serves as a meticulously kept journal, offering an open resource for others. <br/>
