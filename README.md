@@ -1,15 +1,12 @@
 <!-- Start of README.md -->
 
-# 💫 About Me:
-• An undergraduate pursuing Computer Science and Engineering. <br/>
-• My interests:Development, Graphic Designing, Modelling. <br/>  
+#🌙 About Me:
+• I'm an undergraduate studying computer science and engineering, and some of my loves are development, graphic design, and modeling.  
 
-# 🤔 Why am I here?
-• My GitHub repository serves as a meticulously kept journal, offering an open resource for others. <br/>
-• Here, I showcase my work and build a strong developer portfolio. It also serves a great role in helping me connect with other collaborators.<br/>
-• GitHub is my way of giving back and I shall soon be contributing to projects that matter to me and also support causes I'm passionate about.
+#🤔 What has prompted me to come here?
+• My GitHub repository serves as an accessible tool and a well-kept diary for other people. Stated differently, • I showcase my work here and build a strong developer portfolio. It also has a significant impact on how well I can communicate with my teammates.My way of giving back is through GitHub, and I will soon be making contributions to causes and projects that are close to my heart.
 
-# 👨🏻‍💻 Tech Stack:
+#👨🏻‍💻 Tech Stack:
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60"/></a>
 <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
