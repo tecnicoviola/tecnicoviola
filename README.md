@@ -1,6 +1,7 @@
 <!-- Start of README.md -->
 
-#🌙 About Me:<br>
+#🌙 About Me:
+
 • I'm an undergraduate studying computer science and engineering.<br>
 •Some of my loves are development, graphic design, and modeling.<br> 
 
