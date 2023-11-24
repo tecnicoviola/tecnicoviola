@@ -6,6 +6,7 @@
 •Some of my loves are development, graphic design, and modeling.<br> 
 
 #🤔 What has prompted me to come here?
+
 • My GitHub repository serves as an accessible tool and a well-kept diary for other people.<br>
 •Stated differently, I showcase my work here and build a strong developer portfolio.<br>
 •It also has a significant impact on how well I can communicate with my teammates.<br>
