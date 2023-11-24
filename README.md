@@ -3,7 +3,7 @@
 #🌙 About Me:
 
 • I'm an undergraduate studying computer science and engineering.<br>
-•Some of my loves are development, graphic design, and modeling.<br> 
+•Some of my loves are development, graphic design, and modeling.<br><br>
 
 
 #🤔 What has prompted me to come here?
