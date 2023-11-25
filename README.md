@@ -6,7 +6,7 @@
 •Some of my loves are development, graphic design, and modeling.<br><br>
 
 
-#🪐WHAT HAS PROMPTED ME TO COME HERE?
+#<h1>🪐WHAT HAS PROMPTED ME TO COME HERE?</h1>
 
 • My GitHub repository serves as an accessible tool and a well-kept diary for other people.<br>
 •Stated differently, I showcase my work here and build a strong developer portfolio.<br>
