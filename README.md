@@ -6,7 +6,7 @@
 •Some of my loves are development, graphic design, and modeling.<br><br>
 
 
-#🤔 What has prompted me to come here?
+#🤔WHAT HAS PROMPTED ME TO COME HERE?
 
 • My GitHub repository serves as an accessible tool and a well-kept diary for other people.<br>
 •Stated differently, I showcase my work here and build a strong developer portfolio.<br>
@@ -14,7 +14,7 @@
 •My way of giving back is through GitHub, and I will soon be making contributions to causes and projects that are close to my heart.<br><br>
 
 
-#👨🏻‍💻 Tech Stack:
+#👨🏻‍💻 TECHNOLOGY USED:
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60"/></a>
