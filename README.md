@@ -33,7 +33,7 @@
 
 
 
-# 📊 GitHub Stats:
+# 📊 GITHUB STATS:
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tecnicoviola&theme=tokyonight"  width="900">
 
 <table>
