@@ -22,8 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/></a> 
 <a href="https://dev.java/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
-  <img src="resources/Tech Stack/Kotlin.jpg" alt="cplusplus" width="60" height="60" /></a>
+
 <a href="https://developer.android.com/studio/intro" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="60" height="60" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
@@ -42,6 +41,11 @@
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tecnicoviola&theme=tokyonight" width="400"></td>
   </tr>
 </table>
+
+## FIND ME AROUND 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+
+- More on <a href="https://x.com/tecnicoviola?t=LfrM813Jm7_8yALlqnxz1A&s=08">X</a> ✍🏾
+- Updates on <a href="https://www.linkedin.com/in/suhani-6b30702a0">LinkedIn</a> 💼
 
 
 ![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
