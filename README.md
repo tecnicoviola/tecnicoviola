@@ -5,6 +5,11 @@
 • I'm an undergraduate studying computer science and engineering.<br>
 •Some of my loves are development, graphic design, and modeling.<br>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/tecnicoviola/count.svg" />
+</p>
+
 
 <h1>#🪐WHAT HAS PROMPTED ME TO COME HERE:</h1>
 
@@ -12,7 +17,6 @@
 •Stated differently, I showcase my work here and build a strong developer portfolio.<br>
 •It also has a significant impact on how well I can communicate with my teammates.<br>
 •My way of giving back is through GitHub, and I will soon be making contributions to causes and projects that are close to my heart.<br><br>
-
 
 # 💻TECHNOLOGY USED:
 
