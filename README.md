@@ -42,7 +42,7 @@
   </tr>
 </table>
 
-## FIND ME AROUND 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+## GET IN TOUCH ☕: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
 - More on <a href="https://x.com/tecnicoviola?t=LfrM813Jm7_8yALlqnxz1A&s=08">X</a> ✍🏾
 - Updates on <a href="https://www.linkedin.com/in/suhani-6b30702a0">LinkedIn</a> 💼
