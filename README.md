@@ -1,9 +1,9 @@
 <!-- Start of README.md -->
 
-<h1>#🌙ABOUT ME:</h1>
+<h1>#🌙About Me:</h1>
 
 • I'm an undergraduate studying computer science and engineering.<br>
-•Some of my loves are development, graphic design, and modeling.<br>
+• Some of my loves are development, graphic design, and modeling.<br>
 
 <p align="center"> 
   Visitor count<br>
@@ -11,14 +11,14 @@
 </p>
 
 
-<h1>#🪐WHAT HAS PROMPTED ME TO COME HERE:</h1>
+<h1>#🪐Why Am I Here?:</h1>
 
 • My GitHub repository serves as an accessible tool and a well-kept diary for other people.<br>
-•Stated differently, I showcase my work here and build a strong developer portfolio.<br>
-•It also has a significant impact on how well I can communicate with my teammates.<br>
-•My way of giving back is through GitHub, and I will soon be making contributions to causes and projects that are close to my heart.<br><br>
+• Stated differently, I showcase my work here and build a strong developer portfolio.<br>
+• It also has a significant impact on how well I can communicate with my teammates.<br>
+• My way of giving back is through GitHub, and I will soon be making contributions to causes and projects that are close to my heart.<br><br>
 
-# 💻TECHNOLOGY USED:
+# 💻Techstack:
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60"/></a>
@@ -36,7 +36,7 @@
 
 
 
-# 📊 GITHUB STATS:
+# 📊 Github Stats:
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tecnicoviola&theme=tokyonight"  width="900">
 
 <table>
@@ -46,7 +46,7 @@
   </tr>
 </table>
 
-## GET IN TOUCH ☕: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+## Let's Connect ☕: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
 - More on <a href="https://x.com/tecnicoviola?t=LfrM813Jm7_8yALlqnxz1A&s=08">X</a> ✍🏾
 - Updates on <a href="https://www.linkedin.com/in/suhani-6b30702a0">LinkedIn</a> 💼
