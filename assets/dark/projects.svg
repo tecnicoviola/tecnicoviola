@@ -1,0 +1,95 @@
+<svg viewBox="100 0 700 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="projects">
+  <style>
+      :root { --bone: #000000; --muted: #444444; --dim: #666666; --rule: #C0C0C0; --node-bg: #FFFFFF; --accent: #555555; }
+      @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --muted: #B5B5B5; --dim: #8A8A8A; --rule: #444444; --node-bg: #000000; --accent: #AAAAAA; } }
+      .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+      .draw { stroke-dasharray: 2000; stroke-dashoffset: 2000; animation: draw 1s cubic-bezier(.6,0,.2,1) forwards; }
+      @keyframes draw { to { stroke-dashoffset: 0; } }
+      .d1{animation-delay:.1s} .d2{animation-delay:.2s}
+      .pop { opacity: 0; animation: pop .7s cubic-bezier(.2,.7,.2,1) forwards; }
+      @keyframes pop { from{opacity:0;transform:translateY(10px)} to{opacity:1;transform:translateY(0)} }
+      .p1{animation-delay:.3s} .p2{animation-delay:.45s} .p3{animation-delay:.6s} .p4{animation-delay:.75s}
+      @media (prefers-reduced-motion: reduce) { .draw,.pop { animation: none; } .draw{stroke-dashoffset:0} .pop{opacity:1} }
+  </style>
+
+  <rect class="draw d1" x="140" y="15" width="620" height="250" fill="none" stroke="var(--muted)" stroke-width="0.5"/>
+  <line class="draw d1" x1="450" y1="15" x2="450" y2="265" stroke="var(--muted)" stroke-width="0.5"/>
+  <line class="draw d2" x1="140" y1="140" x2="760" y2="140" stroke="var(--muted)" stroke-width="0.5"/>
+
+  <!-- Excalisketch -->
+  <g class="pop p1">
+    <text class="mono" x="156" y="40" font-size="11.5" font-weight="500" fill="var(--bone)" letter-spacing="0.3">Excalisketch</text>
+    <text class="mono" x="156" y="58" font-size="10" fill="var(--muted)">Real-time collaborative whiteboard for teams to</text>
+    <text class="mono" x="156" y="72" font-size="10" fill="var(--muted)">draw together on a shared canvas via WebSockets,</text>
+    <text class="mono" x="156" y="86" font-size="10" fill="var(--muted)">built on a scalable, modular monorepo.</text>
+
+    <rect x="156" y="100" width="58" height="16" rx="2" fill="var(--node-bg)" stroke="var(--rule)" stroke-width="0.5"/>
+    <text class="mono" x="185" y="111" font-size="9" fill="var(--muted)" text-anchor="middle">next.js</text>
+
+    <rect x="222" y="100" width="66" height="16" rx="2" fill="var(--node-bg)" stroke="var(--rule)" stroke-width="0.5"/>
+    <text class="mono" x="255" y="111" font-size="9" fill="var(--muted)" text-anchor="middle">typescript</text>
+
+    <rect x="296" y="100" width="70" height="16" rx="2" fill="var(--node-bg)" stroke="var(--rule)" stroke-width="0.5"/>
+    <text class="mono" x="331" y="111" font-size="9" fill="var(--muted)" text-anchor="middle">websocket</text>
+
+    <rect x="374" y="100" width="56" height="16" rx="2" fill="var(--node-bg)" stroke="var(--rule)" stroke-width="0.5"/>
+    <text class="mono" x="402" y="111" font-size="9" fill="var(--muted)" text-anchor="middle">prisma</text>
+  </g>
+
+  <!-- Team Task Manager -->
+  <g class="pop p2">
+    <text class="mono" x="476" y="40" font-size="11.5" font-weight="500" fill="var(--bone)" letter-spacing="0.3">Team-task-manager</text>
+    <text class="mono" x="476" y="58" font-size="10" fill="var(--muted)">Production-grade REST API for team collaboration</text>
+    <text class="mono" x="476" y="72" font-size="10" fill="var(--muted)">with role-based access and full task lifecycle</text>
+    <text class="mono" x="476" y="86" font-size="10" fill="var(--muted)">management, plus real-time analytics dashboards.</text>
+
+    <rect x="476" y="100" width="50" height="16" rx="2" fill="var(--node-bg)" stroke="var(--rule)" stroke-width="0.5"/>
+    <text class="mono" x="501" y="111" font-size="9" fill="var(--muted)" text-anchor="middle">node.js</text>
+
+    <rect x="534" y="100" width="66" height="16" rx="2" fill="var(--node-bg)" stroke="var(--rule)" stroke-width="0.5"/>
+    <text class="mono" x="567" y="111" font-size="9" fill="var(--muted)" text-anchor="middle">typescript</text>
+
+    <rect x="608" y="100" width="60" height="16" rx="2" fill="var(--node-bg)" stroke="var(--rule)" stroke-width="0.5"/>
+    <text class="mono" x="638" y="111" font-size="9" fill="var(--muted)" text-anchor="middle">mongodb</text>
+  </g>
+
+  <!-- DocAssist -->
+  <g class="pop p3">
+    <text class="mono" x="156" y="170" font-size="11.5" font-weight="500" fill="var(--bone)" letter-spacing="0.3">Docassist</text>
+    <text class="mono" x="156" y="188" font-size="10" fill="var(--muted)">Full-stack AI document assistant with strict</text>
+    <text class="mono" x="156" y="202" font-size="10" fill="var(--muted)">workspace isolation and a RAG pipeline for the</text>
+    <text class="mono" x="156" y="216" font-size="10" fill="var(--muted)">answers grounded only in your own files.</text>
+
+    <rect x="156" y="229" width="58" height="16" rx="2" fill="var(--node-bg)" stroke="var(--rule)" stroke-width="0.5"/>
+    <text class="mono" x="185" y="240" font-size="9" fill="var(--muted)" text-anchor="middle">react.js</text>
+
+    <rect x="222" y="229" width="56" height="16" rx="2" fill="var(--node-bg)" stroke="var(--rule)" stroke-width="0.5"/>
+    <text class="mono" x="250" y="240" font-size="9" fill="var(--muted)" text-anchor="middle">express</text>
+
+    <rect x="286" y="229" width="62" height="16" rx="2" fill="var(--node-bg)" stroke="var(--rule)" stroke-width="0.5"/>
+    <text class="mono" x="317" y="240" font-size="9" fill="var(--muted)" text-anchor="middle">pgvector</text>
+
+    <rect x="356" y="229" width="50" height="16" rx="2" fill="var(--node-bg)" stroke="var(--rule)" stroke-width="0.5"/>
+    <text class="mono" x="381" y="240" font-size="9" fill="var(--muted)" text-anchor="middle">gemini</text>
+  </g>
+
+  <!-- Multi-Lingual Stream -->
+  <g class="pop p4">
+    <text class="mono" x="476" y="170" font-size="11.5" font-weight="500" fill="var(--bone)" letter-spacing="0.3">Multi-lingual stream</text>
+    <text class="mono" x="476" y="188" font-size="10" fill="var(--muted)">Converts YouTube videos into multiple languages</text>
+    <text class="mono" x="476" y="202" font-size="10" fill="var(--muted)">in real-time by extracting audio, translating</text>
+    <text class="mono" x="476" y="216" font-size="10" fill="var(--muted)">text, and syncing synthetic speech to the video.</text>
+
+    <rect x="476" y="229" width="42" height="16" rx="2" fill="var(--node-bg)" stroke="var(--rule)" stroke-width="0.5"/>
+    <text class="mono" x="497" y="240" font-size="9" fill="var(--muted)" text-anchor="middle">flask</text>
+
+    <rect x="526" y="229" width="56" height="16" rx="2" fill="var(--node-bg)" stroke="var(--rule)" stroke-width="0.5"/>
+    <text class="mono" x="554" y="240" font-size="9" fill="var(--muted)" text-anchor="middle">whisper</text>
+
+    <rect x="590" y="229" width="50" height="16" rx="2" fill="var(--node-bg)" stroke="var(--rule)" stroke-width="0.5"/>
+    <text class="mono" x="615" y="240" font-size="9" fill="var(--muted)" text-anchor="middle">gemini</text>
+
+    <rect x="648" y="229" width="40" height="16" rx="2" fill="var(--node-bg)" stroke="var(--rule)" stroke-width="0.5"/>
+    <text class="mono" x="668" y="240" font-size="9" fill="var(--muted)" text-anchor="middle">gtts</text>
+  </g>
+</svg>
