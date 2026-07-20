@@ -3,7 +3,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg"/><img src="assets/light/header-v1.svg" alt="Suhani Verma"/></picture>
 
 <p></p>
-<a href="https://www.linkedin.com/in/suhani-%E3%85%A4-%E2%80%8E-6b30702a0"><img src="assets/icons/linkedin.svg" height="30" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:ersuhani.ve26@gmail.com"><img src="assets/icons/globe.svg" height="30" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/icons/gmail.svg" height="30" alt="Email" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/tecnicoviola"><img src="assets/icons/github.svg" height="30" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://suhanive.netlify.app/">
+<a href="https://www.linkedin.com/in/suhani-%E3%85%A4-%E2%80%8E-6b30702a0"><img src="assets/icons/linkedin.svg" height="30" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://suhanive.netlify.app/"><img src="assets/icons/globe.svg" height="30" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:ersuhani.ve26@gmail.com"><img src="assets/icons/gmail.svg" height="30" alt="Email" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/tecnicoviola"><img src="assets/icons/github.svg" height="30" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p></p>
 
 </div>
