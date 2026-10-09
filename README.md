@@ -3,7 +3,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg"/><img src="assets/light/header-v1.svg" alt="Suhani Verma"/></picture>
 
 <p></p>
-<a href="https://www.linkedin.com/in/suhani-%E3%85%A4-%E2%80%8E-6b30702a0"><img src="assets/icons/linkedin.svg" height="30" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://suhanive.netlify.app/"><img src="assets/icons/globe.svg" height="30" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:ersuhani.ve26@gmail.com"><img src="assets/icons/gmail.svg" height="30" alt="Email" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/tecnicoviola"><img src="assets/icons/github.svg" height="30" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/suhanive2/"><img src="assets/icons/linkedin.svg" height="30" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://suhanive.netlify.app/"><img src="assets/icons/globe.svg" height="30" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:ersuhani.ve26@gmail.com"><img src="assets/icons/gmail.svg" height="30" alt="Email" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/tecnicoviola"><img src="assets/icons/github.svg" height="30" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p></p>
 
 </div>
@@ -20,7 +20,8 @@
 <div align="center">
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/github-stats.svg"/><img src="assets/light/github-stats.svg" width="97%" alt="GitHub statistics and repository languages"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tecnicoviola&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=tecnicoviola&bg_color=00000000&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="contribution activity"/></picture>
+
+<!-- <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tecnicoviola&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=tecnicoviola&bg_color=00000000&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="contribution activity"/></picture> -->
 
 </div>
 
